@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
-## ❤️ Let's get connected:
+### ❤️ Let's get connected:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558592164274)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/regissousa_me)
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regissousa/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@regiss/)
 
-🛠️ Technologies e Tools I use:
+### 🛠️ Technologies e Tools I use:
 
 <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
