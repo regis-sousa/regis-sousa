@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
-# ❤️ Let's get connected:
+## ❤️ Let's get connected:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/558592164274)
