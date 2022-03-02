@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 -->
 
 
-[![Follow](https://img.shields.io/github/followers/regis-sousa.svg?style=social&label=Follow&maxAge=2592000)]
 [![](https://img.shields.io/github/followers/regis-sousa.svg?style=social&label=Follow&maxAge=2592000)]
+[![](https://img.shields.io/github/watchers/regis-sousa/{repo-name}.svg)]
+[![](https://img.shields.io/github/stars/regis-sousa/{repo-name}.svg)]
+[![](https://img.shields.io/github/forks/regis-sousa/{repo-name}.svg)]
+[![](	https://img.shields.io/github/watchers/regis-sousa/{repo-name}.svg)]
+[![](https://img.shields.io/github/downloads/regis-sousa/{repo-name}/total.svg)]
+
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
