@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 :octocat:
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
 ## ❤️ Let's get connected:
 
@@ -31,4 +30,5 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@regiss/)
 
 🛠️ Technologies e Tools I use:
+
 <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
