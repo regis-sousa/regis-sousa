@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Follow](https://img.shields.io/github/followers/regis-sousa.svg?style=social&label=Follow&maxAge=2592000)]
-
+[![](https://img.shields.io/github/followers/regi-sousa.svg?style=social&label=Follow&maxAge=2592000)]
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
 ### ❤️ Let's get connected:
