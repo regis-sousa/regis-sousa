@@ -23,4 +23,4 @@ Here are some ideas to get you started:
  
 # ❤️ Let's get connected:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](regiss.contato@gmail.com)
