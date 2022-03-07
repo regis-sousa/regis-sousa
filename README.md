@@ -39,6 +39,7 @@ Here are some ideas to get you started:
  <li> </li>
  <li> </li>
 </ul>
+
 ### 🛠️ Technologies e Tools I use:
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <img align="center" alt="" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
