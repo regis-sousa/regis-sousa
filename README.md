@@ -1,4 +1,4 @@
-### Hi there :octocat:
+### Hello there :octocat:
 
 <!--
 
@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![](https://img.shields.io/github/followers/regis-sousa.svg?style=social&label=Follow&maxAge=2592000)]
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
  
 ### ❤️ Let's get connected:
 
@@ -28,6 +24,9 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sregiss)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/regissousa.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regissousa/)
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
+
 
 ### 🛠️ Technologies e Tools I use:
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
