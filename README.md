@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 ### 🧘‍♂️ Detailed information
 <ul>
- <li> Name: </li> 
+ <li><b>Name:</b> Régis Sousa </li> 
  <li> </li>
  <li> </li>
  <li> </li>
