@@ -1,4 +1,4 @@
-### Hello there :octocat:
+### :octocat: Hello there
 <hr size = "5">
 
 <!--
@@ -26,9 +26,19 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/regissousa.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regissousa/)
 
+<hr>
+
 <!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=regis-sousa&show_icons=true&theme=tokyonight"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regis-sousa&layout=compact&theme=tokyonight"/>
 -->
-
+### 🧘‍♂️ Detailed information
+<ul>
+ <li> Name: </li> 
+ <li> </li>
+ <li> </li>
+ <li> </li>
+ <li> </li>
+ <li> </li>
+</ul>
 ### 🛠️ Technologies e Tools I use:
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <img align="center" alt="" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
