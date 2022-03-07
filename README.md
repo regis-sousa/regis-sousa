@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <ul>
  <li><b>Name:</b> Régis Sousa </li> 
  <li><b>Age:</b> 22</li>
- <li><b>Living in:</b> Fortaleza, Ceara, Brazil 🇧🇷</li>
+ <li><b>Living in:</b> Fortaleza, Ceara, Brazil :brazil </li>
  <li> </li>
  <li> </li>
  <li> </li>
