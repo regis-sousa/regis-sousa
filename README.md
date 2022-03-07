@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ### 🧘‍♂️ Detailed information
 <ul>
  <li><b>Name:</b> Régis Sousa </li> 
- <li> </li>
- <li> </li>
+ <li><b>Age:</b> 22</li>
+ <li><b>Living in:</b> Fortaleza, Ceara, Brazil 🇧🇷</li>
  <li> </li>
  <li> </li>
  <li> </li>
