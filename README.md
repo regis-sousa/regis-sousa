@@ -1,5 +1,5 @@
 ### Hello there :octocat:
-<hr>
+<hr size = "25">
 
 <!--
 
