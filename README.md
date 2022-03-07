@@ -1,5 +1,5 @@
 ### Hello there :octocat:
-inline
+<hr>
 
 <!--
 
